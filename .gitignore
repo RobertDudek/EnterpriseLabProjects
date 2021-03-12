@@ -37,8 +37,8 @@ $RECYCLE.BIN/
 *.classpath
 *.project
 *.settings
-/bin/*
-/target/*
+*/bin/*
+*/target/*
 
 # Netbeans
 **/nbproject/private/
